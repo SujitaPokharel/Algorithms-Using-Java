@@ -1,0 +1,11 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+  Write a program in Java that finds the smallest and the largest numbers in an array of n numbers. 
+  
+  Use the following array in your program as a test case:    
+      int[] array = {95, 70, 82, 125, 48, 63, 18, 53};  
+      
+      
+  The program should display the output of the result as shown below:     
+      The smallest number is 18 The largest number is 125
