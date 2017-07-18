@@ -1,0 +1,24 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+    In the class, we discussed 2 techniques for randomly permuting arrays – Permute by Sorting and Randomize in Place. 
+    Create a Java class/program called PermuteArrays which contains 2 methods:     
+    
+      permuteBySorting method  
+          • Has this header  public static void permuteBySorting(int[] list)
+          • It takes an array of integers as argument and permutes the elements in the array by applying the Permute by Sorting algorithm 
+          • In the PermuteArrays class main method, test the permuteBySorting method  
+                1. Generate an array of integers with values from 1 to 20 
+                2. Display the original array on the screen  
+                3. Call the permuteBySorting method and pass this array as the argument 
+                4. Display the array again after it got randomized  
+ 
+      randomizeInPlace method that 
+          • Has this header  public static void randomizeInPlace(int[] list) 
+          • It takes an array of integers as argument and permutes the elements in the array by applying  the Randomize in Place algorithm  
+          • In the PermuteArrays class main method, test the randomizeInPlace method  
+                1. Generate another array of integers with values from 100 to 120 
+                2. Display the original array on the screen 
+                3. Call the randomizeInPlace method and pass this array as the argument 
+                4. Display the array again after it got randomized
+  
