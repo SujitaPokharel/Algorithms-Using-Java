@@ -1,0 +1,16 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+    Write a program in Java that performs the Randomized Quicksort algorithm. 
+    
+      a) Create the randomizedPartition method.  
+      
+      b) Implement the recursive randomizedQuicksort method. 
+      
+      c) Test your codes by writing a program that uses the following input array:     
+            int[] array = {4, 1, 3, 2, 16, 9, 10, 14, 8, 7}; 
+            
+      d) Your output should display the following versions of the array:  
+            I. The original input array 
+            II. The sub-arrays after each of the randomizedPartition calls has completed  
+            III. The final sorted array after performing the Quicksort algorithm 
