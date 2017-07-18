@@ -1,0 +1,17 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+    Write a program in Java that performs the Heapsort algorithm. 
+    
+      a) Create the maxHeapify method.  
+      
+      b) Implement the buildMaxHeap method and the heapSort method.
+      
+      c) Test your program by using the following array:  
+          int[] array = {10, 15, 8, 12, 5, 2, 20, 7, 18}; 
+          
+      d) Your output should display the following 3 versions of the array:  
+          i. The original input array 
+          ii. The array after buildMaxHeap has completed  
+          iii. The final sorted array after performing the Heapsort algorithm  
+ 
