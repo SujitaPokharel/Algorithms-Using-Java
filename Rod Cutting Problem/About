@@ -1,0 +1,28 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+    1. Create a class called RodCuttingProblem. This class should have the followings:
+    
+      • A method called cutRod that performs the cutting rod algorithm (without memoization) to compute the optimal revenue value 
+      • Methods called memoizedCutRod and memoizedCutRodAux that perform the cutting rod algorithm (using the memoization technique) 
+        to compute the optimal revenue value 
+      • Each technique should implement a counter to count how many times the method is called  (recursively) 
+        to solve a problem of rod length _ 
+      • Test these algorithms in the main method 
+      • Calculate the optimal revenue figures for rods of lengths i = 1,2,3,…,10, using both methods  
+      • Your outputs should be a table that shows the following data and results: 
+          length  , 
+          optimal rev from the cutRod (CR) method, 
+          number for times the cutRod method is called to solve the problem of length , 
+          optimal rev from the memoizedCutRod (MCR) method,   
+          number for times the method is called to solve the problem of length   
+       • The output table should have these columns with headers:  Length _, Rev CR, Num Calls CR, Rev MCR, Num Calls MCR 
+       • Compare the results from the cutRod and the memoizedCutRod methods  
+ 
+ 
+     2. Modify the memoizedCutRod method (or implement the extendedBottomUpCutRod method) to keep track of the rod length 
+        that generates the optimal solution for each of the rod lengths used in problem 1 above.     
+        • Add a column to the output table to show the optimal rod cut results – the lengths of the rods (after the cuts) 
+          that yield the optimal revenue values  
+        • The output table should now have these columns with headers:  
+            Length _, Rev CR, Num Calls CR, Rev MCR, Num Calls MCR, Cut Pieces  
