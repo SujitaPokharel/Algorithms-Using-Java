@@ -1,0 +1,11 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+     Write a program that performs the Merge Sort algorithm. 
+     
+     Use the same array in problem 2 as your test case for the program:  
+          int[] array = {95, 70, 82, 125, 48, 67, 18, 53};   
+          
+     The program should display the output of the result as shown below:   
+          Merge Sort result is 18, 48, 53, 67, 70, 82, 95, 125  
+ 
