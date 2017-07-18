@@ -1,0 +1,17 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+      Write a program in Java that implements the brute-force method (not the divideand- conquer method) 
+      for solving the maximum-subarray problem.   
+      
+      • Use the concept of stock purchase to maximize profit, as shown in the lecture  
+      • Try every possible pair of buy & sell dates in which the buy date precedes the sell date 
+      • Determine the highest possible profit 
+      • Use the following array in your program as a test case (i.e., day 0 to day 16):  
+      
+            int[] price = {100,113,110,85,105,102,86,63,81,101,94,106,101,79,94,90,97};  
+ 
+      • The output should show max profit value and the buy & sell days as follows: 
+            The maximum profit is [max profit value from program].    
+            Buy on day [buy day 0…15] and sell on day [sell day 1…16].  
+ 
