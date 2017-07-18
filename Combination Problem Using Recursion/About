@@ -1,0 +1,7 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+The number of combinations of n objects taken k at a time is shown as: 
+    n! / ( k! ( n-k)! )
+ 
+Write a program in Java that calculates this number of combinations.
