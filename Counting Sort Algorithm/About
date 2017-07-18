@@ -1,0 +1,15 @@
+This is a part of assignment of "Algorithms using Java" Using java (CS 501).
+This project is a Based on following instruction by professor :
+
+    Write a program in Java that performs the Counting Sort algorithm. 
+    
+      a) Create the countingSort method. 
+      
+      b) Test your codes by writing a program that uses the following input array:      
+            int[] array_A = {6, 0, 2, 0, 1, 3, 4, 6, 1, 3, 2}; 
+ 
+      c) Your output should display the following versions of the arrays:  
+            I. The original input array A 
+            II. The counting array C after the counting has completed 
+            III. The counting array C after the summing has completed 
+            IV. The final sorted array B after performing the Counting Sort algorithm
